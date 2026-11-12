@@ -1,0 +1,18 @@
+{
+  "featured": {
+    "adv1": {
+      "url": "https://raw.githubusercontent.com/MrMousav1/penguinType-ads/main/tamleek_featured.mp4",
+      "target": "https://example.com"
+    }
+  },
+  "banner": {
+    "adv1": {
+      "url": "https://raw.githubusercontent.com/MrMousav1/penguinType-ads/main/benz_banner.mp4",
+      "target": "https://example.com"
+    },
+    "adv2": {
+      "url": "https://raw.githubusercontent.com/MrMousav1/penguinType-ads/main/zar_banner.mp4",
+      "target": "https://example.com"
+    }
+  }
+}
