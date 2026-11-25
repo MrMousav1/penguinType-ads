@@ -4,16 +4,10 @@
       "url": "https://raw.githubusercontent.com/MrMousav1/penguinType-ads/main/tamleek_featured.webp",
       "target": "https://example.com"
     },
-    "adv2": {
-      "url": "https://raw.githubusercontent.com/MrMousav1/penguinType-ads/main/banz_featured.webp",
-      "target": "https://example.com"
-    }
+   
   },
   "banner": {
-    "adv1": {
-      "url": "https://raw.githubusercontent.com/MrMousav1/penguinType-ads/main/benz_banner.webp",
-      "target": "https://example.com"
-    },
+    
     "adv2": {
       "url": "https://raw.githubusercontent.com/MrMousav1/penguinType-ads/main/zar_banner.webp",
       "target": "https://example.com"
